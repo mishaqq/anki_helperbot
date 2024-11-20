@@ -2,7 +2,7 @@
 <p align="center">
    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=white&style=flat" alt="License">
 <br>
-    <b>An open-source telegram bot written on JavaScript using NodeJS & Grammy.</b><br><br>
+    <b>An open-source telegram bot written with JavaScript using NodeJS & Grammy.</b><br><br>
     Made with integration of ChatGPT API.<br>
     <a href="https://web.telegram.org/k/#@anki_ai_bot">Try it here.</a><br>
 </p>
